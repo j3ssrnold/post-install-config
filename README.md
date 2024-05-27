@@ -50,12 +50,15 @@ Step 1: You will want to assign roles for your agents. Login to helpdesk. In ord
 <p>
 Next click on the Permissions tab and allow all permissions for Supreme Admin. Then Click Add Role.
 </p>
+
 <p>
 <img src="https://images2.imgbox.com/47/35/8NffhlO6_o.png" alt="imgbox"/></a>
 
 <img src="https://images2.imgbox.com/28/45/xgY6hHBg_o.png" alt="image host"/></a>
 </p>
+
 Do not forget the next two tabs select all boxes and save changes.
+
 <p>
 <img src="https://images2.imgbox.com/d0/80/3zg7aWhP_o.png" alt="image host"/></a>
 
