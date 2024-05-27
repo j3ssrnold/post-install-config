@@ -30,8 +30,12 @@ Configure
 - Users
 - SLA
 - Help Topics
-- Login for help desk: http://localhost/osTicket/scp/login.php
-- Login for End Users: http://localhost/osTicket/
+
+<h2>Links for Login:</h2>
+
+Help Desk: http://localhost/osTicket/scp/login.php
+
+End Users: http://localhost/osTicket/
 
 <h2>Configuration Steps</h2>
 
