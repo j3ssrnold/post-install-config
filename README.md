@@ -40,7 +40,7 @@ End Users: http://localhost/osTicket/</b>
 <h2>Configuration Steps</h2>
 
 <p>
-Step 1: You will want to assign roles for your agents. Login to helpdesk. In order to have a role that has access to everything, you will start from the Admin Panel -> Click agents -> Click Roles. Type in Supreme admin for fun to assign an admistrator to ticketing system. In the name field type "Supreme Admin".
+Step 1: You will want to assign roles for your agents. Login to helpdesk with the username and password you created. In order to have a role that has access to everything, you will start from the Admin Panel -> Click agents -> Click Roles. Type in Supreme admin for fun to assign an admistrator to ticketing system. In the name field type "Supreme Admin".
 </p>
 <p>
 <img src="https://images2.imgbox.com/50/d6/U77PNESp_o.png" alt="imgbox"/></a>
