@@ -67,7 +67,7 @@ Do not forget the next two tabs select all boxes and save changes.
 Step 2: Now let's configure the departments in the ticketing system. Make sure you are still in the Admin Panel -> Click Agents --> Click Departments. In the name box type in System Administrators. Leave the other settings as default. <b>(You may want to go back later and edit the SLA in the System Administrator Department once those parameters are established.)</b> At the bottom click create department. <b> REMINDER FOR FORMAT. GET SCREENSHOT WITH CREATE BUTTON AND DEPARTMENT LIST</b>**
 </p>
 <p>
-<img src="https://images2.imgbox.com/a6/d1/7PJpiBUC_o.png" alt="imgbox"/></a>
+<img src="https://images2.imgbox.com/c2/eb/gtRt5YOY_o.png" alt="image host"/></a>
 </p>
 <br />
 
