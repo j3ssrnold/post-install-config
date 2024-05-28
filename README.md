@@ -106,7 +106,7 @@ Step 5: Now you need to create Agents. In the top right make sure you are on Age
 <img src="https://images2.imgbox.com/53/ab/fgQu95B6_o.png" alt="imgbox"/></a>
 </p>
 
-<b>**Formatting Reminder -> screenshot of password settings and Agent List screenshot.</b> Don't make Jane reset her password at initial login.
+<b>**Formatting Reminder -> screenshot of password settings and Agent List screenshot.</b> Don't make Jane reset user password at initial login.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -120,7 +120,7 @@ Go ahead and make Jane your Supreme Admin. Click Access -> Primary Department ->
 <br />
 
 <p>
-Let's make a regular agent profile. Again make sure you're in Agent Panel -> Users -> Add New. Let's add Marshall Arnold, a new hire. Again we won't make Marshall reset his password at initial login. Access will be view only. 
+Let's make a regular agent profile. Again make sure you're in Agent Panel -> Users -> Add New. Let's add Marshall Arnold, a new hire. Again we won't make Marshall reset user password at initial login. Access will be view only. 
 </p>
 
 <p>
@@ -211,6 +211,12 @@ Last, add Password reset. Fill in the name, <b>**then Add/Create Topic.**</b>
 
 <p>
 <img src="https://images2.imgbox.com/a0/cf/wCT1R9tD_o.png" alt="imgbox"/></a>
+</p>
+
+<b>**Formatting reminder. Add image of list of created help topics.</b>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
