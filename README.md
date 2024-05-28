@@ -72,12 +72,21 @@ Step 2: Now let's configure the departments in the ticketing system. Make sure y
 <p>
 <img src="https://images2.imgbox.com/c2/eb/gtRt5YOY_o.png" alt="image host"/></a>
 </p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 <p>
 Step 3: After the previous step, You should configue teams to allow you to pull agents from different departments to handle specific issues/users via help topic or ticket filter. This allows you to create different levels of support. Let's create Level II support since Level I is already established. Again it's Admin Panel -> Agents -> Teams -> Add New Team. Name it Level II Support -> Create Team. <b>**FORMAT REMINDER INSERT TEAM LIST</b>
 <p>
 <img src="https://images2.imgbox.com/f6/34/TASnjgMN_o.png" alt="imgbox"/></a>
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -90,17 +99,119 @@ Step 4: Allow anyone to create a ticket. Admin Panel -> Settings -> User Setting
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 5: Now you need to create Agents. In the top right make sure you are on Agent Panel -> Users -> Add New. Let's add Jane. Fill in name, email then set username for Jane.
 </p>
+
+<p>
+<img src="https://images2.imgbox.com/53/ab/fgQu95B6_o.png" alt="imgbox"/></a>
+</p>
+
+<b>**Formatting Reminder -> screenshot of password settings and Agent List screenshot.</b> Don't make Jane reset her password at initial login.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Go ahead and make Jane your Supreme Admin. Click Access -> Primary Department -> Support -> Supreme Admin. Then Extended Access -> System Adminstrators -> Supreme Admin -> Make sure Alerts is checked -> Create Role.
+<p>
+<img src="https://images2.imgbox.com/5f/7b/nCEbgEMe_o.png" alt="imgbox"/></a>
+</p>
+<b>**Formatting reminder: screenshot of list</b>
+</p>
+<br />
+
+<p>
+Let's make a regular agent profile. Again make sure you're in Agent Panel -> Users -> Add New. Let's add Marshall Arnold, a new hire. Again we won't make Marshall reset his password at initial login. Access will be view only. 
+</p>
+
+<p>
+<img src="https://images2.imgbox.com/1b/12/qTp0iznX_o.png" alt="imgbox"/></a>
+
+<b>
+Formatting Reminder: Insert Screenshot of Password Settings.  
+</b>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<img src="https://images2.imgbox.com/9b/a7/XH3hqiYn_o.png" alt="imgbox"/></a> 
+</p>
+</p>
+<br />
+
+<p>
+<b>Step 6:</b> Now that you have Admins and Agents set up, you need to create End Users. Let's use Karen and Chad as two examples. Make sure you are in Agent Panel -> Users -> Add New. For the purposes of this tutorial we will just fill out name and email. Then Click Add user. 
+</p>
+
+<p>
+<img src="https://images2.imgbox.com/60/7b/HXMJJd1I_o.png" alt="imgbox"/></a>
+</p>
+
+<p>
+<b>**Formatting Reminder** Add image of user list after creating. </b>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Time to add Chad. Again, Agent panel -> Users -> Add New. Just add the name and email for Chad.
+
+<p>
+<img src="https://images2.imgbox.com/df/09/uMcCsTBI_o.png" alt="imgbox"/></a>   
+</p>  
+<b>**Formatting Reminder** Add user list again to be sure everyone was added correctly.</b>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>Step 7:</b> Now it's time to set up the SLA levels in our system. This will give our agents a way to prioritze ticekts in the system. For the purposes of this tutorial, you will need to set SLAs at Sev-A, B, and C. Revert to Admin Panel (top right) -> Manage -> SLA.
+
+For Sev-A: 1 hour/24-7. In Name Box -> Sev-A. In Grace Period -> 1. From the Schedule drop down menu -> select 24/7.
 </p>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://images2.imgbox.com/b4/03/3tEuXxrD_o.png" alt="imgbox"/></a>
+</p>
+
+For Sev-B: 4 hours/24-7. In Name Box -> Sev-B. In Grace Period -> 4. From the Schedule drop down menu -> select 24/7.
+
+<p>
+<img src="https://images2.imgbox.com/15/59/SyedcK9t_o.png" alt="imgbox"/></a>
+</p>
+
+For Sev-C: 8hours/M-F 8a-5p, with holidays In Name Box -> Sev-C. In Grace Period -> 8. From the Schedule drop down menu -> select M-F/8a-5p, with holidays.
+
+<p>
+<img src="https://images2.imgbox.com/da/98/oh8kqh9i_o.png" alt="imgbox"/></a> 
 </p>
 <br />
+
+<p>
+<b>Step 8:</b> For your last step, you need to configure Help Topics. We will add four common categories: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. Again confirm you are in Admin Panel -> Manage -> Help Topics. 
+
+First, add Business Critical Outage. Fill in the name, <b>**then Add/Create Topic.**</b>
+
+<p>
+<img src="https://images2.imgbox.com/0f/4d/fv5HGNj7_o.png" alt="imgbox"/></a>
+</p>
+
+Second, add Personal Computer Issues. Fill in the name, <b>**then Add/Create Topic.**</b>
+
+<p>
+<img src="https://images2.imgbox.com/4c/28/uwmZonmZ_o.png" alt="imgbox"/></a>
+</p>
+
+Third, add Equipment Reset.  Fill in the name, <b>**then Add/Create Topic.**</b>
+
+<p>
+<img src="https://images2.imgbox.com/5f/5f/aK59IotF_o.png" alt="imgbox"/></a>
+</p>
+
+Last, add Password reset. Fill in the name, <b>**then Add/Create Topic.**</b>
+
+<p>
+<img src="https://images2.imgbox.com/a0/cf/wCT1R9tD_o.png" alt="imgbox"/></a>
+</p>
+<br />
+
+Congrats! You have configured the ticketing system for both agents and users.
