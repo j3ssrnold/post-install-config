@@ -113,44 +113,74 @@ Step 4: Ticket Population: Allow anyone to create a ticket. Stay in Admin Panel 
 </p>
 <br />
 
-Step 5: Now you need to create Agents. In the top right make sure you click on Agent Panel -> Users -> Add New. Go ahead and add Jane. Fill in name, email then set username for Jane.
+Step 5: Now you need to create Agents. In the top right make sure you click on Agent Panel -> Users -> Add New. Go ahead and add Jane. Fill in name, email, then username for Jane.
 
 <p>
 <img src="https://i.imgur.com/MjGxxWP.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-Set Password. Uncheck Sentd the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
+Set Password. Uncheck Send the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
 
 <p>
 <img src="https://i.imgur.com/SwJ2Rdz.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-Go ahead and make Jane your Supreme Admin. Click Access -> Primary Department -> Support -> Supreme Admin. Then Extended Access -> System Adminstrators -> Supreme Admin -> Make sure Alerts is checked -> Create Role.
+For Jane's access level, you should make Jane your Supreme Admin. Click Access -> Primary Department -> Support -> Supreme Admin. Extended Access -> System Adminstrators -> Supreme Admin -> Add. ***Make sure Alerts is checked.***
+
 <p>
-<img src="https://images2.imgbox.com/5f/7b/nCEbgEMe_o.png" alt="imgbox"/></a>
-</p>
-<b>**Formatting reminder: screenshot of list</b>
+<img src="https://i.imgur.com/NOaX9Nm.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
+Add Jane to a team as well. Go to the teams Tab--> Select Level II Support--> Add ***Alerts should be checked.***--> Create.
+
 <p>
-Let's make a regular agent profile. Again make sure you're in Agent Panel -> Users -> Add New. Let's add Marshall Arnold, a new hire. Again we won't make Marshall reset user password at initial login. Access will be view only. 
+<img src="https://i.imgur.com/hRWp4i3.png" title="source: imgur.com" /></a>
 </p>
+<br />
+
+Jane is now added to the Agent Roster. 
 
 <p>
-<img src="https://images2.imgbox.com/1b/12/qTp0iznX_o.png" alt="imgbox"/></a>
+<img src="https://i.imgur.com/9pjXsnZ.png" title="source: imgur.com" /></a>
+</p>
+<br />
 
-<b>
-Formatting Reminder: Insert Screenshot of Password Settings.  
-</b>
+
+Now for a support profile. You shoukd add Marshall Arnold, a help desk professional. Stay in Admin Panel --> Agents --> Add new agent. Fill in name, email, and username for Marshall.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
-<img src="https://images2.imgbox.com/9b/a7/XH3hqiYn_o.png" alt="imgbox"/></a> 
 </p>
+<br />
+
+Set Password. Uncheck Send the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+For Marhsall's access level, . Click Access -> Primary Department -> Support -> ***Extended Access not View Only.*** If you leave his access at view only, Marshall will not be able to close tickets on his own. 
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+Set Password. Uncheck Send the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+You have now created Marshall's Agent Account.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
