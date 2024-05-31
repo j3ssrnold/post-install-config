@@ -39,23 +39,35 @@ End Users: http://localhost/osTicket/</b>
 
 <h2>Configuration Steps</h2>
 
+Step 1: This is what the osTicket home screen should look like. You will want to use the helpdesk link and username and password you established in the previous tutorial to login. For the next few subsequent steps, you will want to be in Admin Panel. To get there you need to go to the top right of the screen and click Admin Panel to start post-installation configuration.
+
 <p>
-Step 1: You will want to assign roles for your agents. Login to helpdesk with the username and password you created. In order to have a role that has access to everything, you will start from the Admin Panel -> Click agents -> Click Roles. Type in Supreme admin for fun to assign an admistrator to ticketing system. In the name field type "Supreme Admin".
-</p>
-<p>
-<img src="https://images2.imgbox.com/50/d6/U77PNESp_o.png" alt="imgbox"/></a>
+<img src="https://i.imgur.com/0IEg0Th.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
+Step 2: You will want to assign roles for your agents. Login to helpdesk with the username and password you created. In order to have a role that has access to everything, you will start from the Admin Panel -> Click agents -> Click Roles. Type in Supreme admin for fun to assign an admistrator to ticketing system. In the name field type "Supreme Admin".
+
 <p>
+<img src="https://i.imgur.com/tfyG1CT.png" title="source: imgur.com" /></a>
+</p>
+<br />
+
 Next click on the Permissions tab and allow all permissions for Supreme Admin. Then Click Add Role.
-</p>
+
+***Note: Be sure that permissions for Tasks and Knowledgebases are selected as well.***
 
 <p>
-<img src="https://images2.imgbox.com/47/35/8NffhlO6_o.png" alt="imgbox"/></a>
-
-<img src="https://images2.imgbox.com/28/45/xgY6hHBg_o.png" alt="image host"/></a>
+<img src="https://i.imgur.com/GGcz2HJ.png" title="source: imgur.com" /></a>
 </p>
+<br />
+
+Here you can see where Supreme Admin was added to the roster: 
+
+<p>
+<img src="https://i.imgur.com/nR1lUjo.png" title="source: imgur.com" /></a>
+</p>
+<br />
 
 Do not forget the next two tabs select all boxes and save changes.
 
