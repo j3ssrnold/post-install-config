@@ -144,7 +144,7 @@ End Users: http://localhost/osTicket/</b>
 -  At the top right make sure you click on Agent Panel --> Users --> Add New. --> Fill in name, email, then username for Jane.</b>
 
     <p>
-    <img src="https://i.imgur.com/MjGxxWP.png" title="source: imgur.com" /></a>
+    <img src="https://i.imgur.com/MjGxxWP.png" title="source: imgur.com"/></a>
     </p>
 <br />
 
@@ -155,154 +155,165 @@ End Users: http://localhost/osTicket/</b>
     </p>
 <br />
 
-- For Jane's access level, you should make Jane your Supreme Admin. Click Access -> Primary Department -> Support -> Supreme Admin. Extended Access -> System Adminstrators -> Supreme Admin -> Add. ***Make sure Alerts box is checked.***
+-  For Jane's access level, assign Jane as your Supreme Admin.
+    -  Click Access --> Primary Department --> Support --> Supreme Admin. Extended Access --> System Adminstrators --> Supreme Admin --> Add. --> ***Make sure Alerts box is checked.***
 
-<p>
-<img src="https://i.imgur.com/NOaX9Nm.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/NOaX9Nm.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Add Jane to a team as well. Go to the teams Tab--> Select Level II Support--> Add ***Alerts should be checked.***--> Create.
+-  Add Jane to a team as well. Go to the teams Tab --> Select Level II Support --> Click Add --> ***Alerts should be checked.*** --> Create.
 
-<p>
-<img src="https://i.imgur.com/hRWp4i3.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/hRWp4i3.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Jane is now added to the Agent Roster. 
+-  Jane is now added to the Agent Roster. 
 
-<p>
-<img src="https://i.imgur.com/9pjXsnZ.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/9pjXsnZ.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
+<h3>Now create a support profile for a help desk professional.</h3>
 
-<b>Now create a support profile. You should add Marshall Arnold, a help desk professional. Stay in Admin Panel --> Agents --> Add new agent. Fill in name, email, and username for Marshall.</b>
+-  Stay in Admin Panel --> Agents --> Add new agent --> Fill in name, email, and username for Marshall.</b>
 
-<p>
-<img src="https://i.imgur.com/5a9sf7B.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/5a9sf7B.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Set Password. Uncheck Send the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
+-  Set Password. Uncheck Send the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
 
-<p>
-<img src="https://i.imgur.com/1UOe157.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/1UOe157.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- For Marhsall's access level: Click Access -> Primary Department -> Support -> ***Extended Access not View Only. If you leave his access at view only, Marshall will not be able to close tickets on his own.*** 
+-  For Marhsall's access level: Click Access -> Primary Department -> Support -> Extended Access
 
-<p>
-<img src="https://i.imgur.com/GdmJSGF.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/GdmJSGF.png" title="source: imgur.com" /></a>
+    </p>
+
+>[!TIP]
+>To save you troubleshooting in the future, choose Extended Access not View Only. If you leave his access at view only, Marshall will not be able to close tickets on his own in our next tutorial on the [Ticket Lifecyle](https://github.com/j3ssrnold/ticket-lifecycle).
 <br />
 
-- You have now created Marshall's Agent Account.
+-  You have now created Marshall's Agent Account.
 
-<p>
-<img src="https://i.imgur.com/5a9sf7B.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/5a9sf7B.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
+<h3>Step 6: Next you need to Configure End Users.</h3>
 
-<b>Step 6: Next you need to create End Users. Use Karen and Chad as two examples. Go to Agent Panel -> Users -> Add New. For the purposes of this tutorial we will just fill out name and email. Click Add user.</b>
+-  Go to Agent Panel -> Users -> Add New. --> For the purposes of this tutorial you will just fill out name and email. --> Click Add user.
 
-- Account Details should look like this: 
+-  Account Details should look like this: 
 
-<p>
-<img src="https://i.imgur.com/wYdRzxV.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/wYdRzxV.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Karen is added in the user list.
+-  Karen is now added to the user list.
 
-<p>
-<img src="https://i.imgur.com/ElznjgS.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/ElznjgS.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Time to add Chad. Again, Agent panel -> Users -> Add New. Just add the name and email for Chad.</b>
+<h3>Time to add Chad another End User.</h3> 
 
-- Account Details should look like this:
+-  Again, Agent panel -> Users -> Add New. Just add the name and email for Chad.</b>
+    - Account Details should look like this:
 
-<p>
-<img src="https://i.imgur.com/8kOQdP6.png" title="source: imgur.com" /></a>   
-</p>  
+    <p>
+    <img src="https://i.imgur.com/8kOQdP6.png" title="source: imgur.com" /></a>   
+    </p>  
 <br />
 
-- Chad is in the user list now:
+-  Chad is in the user list now:
 
-<p>
-<img src="https://i.imgur.com/El3Cbwk.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/El3Cbwk.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 7: Next you need to set up the SLA levels in the system. This will give our agents a way to prioritze ticekts in the system. For the purposes of this tutorial, you will need to set SLAs at Sev-A, B, and C. Revert to Admin Panel (top right) -> Manage -> SLA.</b>
+<h3>Step 7: Configure the SLAs. This will give our agents a way to prioritze ticekts in the system.</h3> 
 
-- For Sev-A: 1 hour/24-7. In Name Box -> Sev-A. In Grace Period -> 1. From the Schedule drop down menu -> select 24/7.
+-  You need to set SLAs at Sev-A, B, and C. Revert to Admin Panel (top right) -> Manage -> SLA.</b>
 
-<p>
-<img src="https://i.imgur.com/lje1ZuW.png" title="source: imgur.com" /></a>
-</p>
+-  For Sev-A: 1 hour/24-7. In Name Box -> Sev-A. In Grace Period -> 1. From the Schedule drop down menu -> select 24/7.
+
+    <p>
+    <img src="https://i.imgur.com/lje1ZuW.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- For Sev-B: 4 hours/24-7. In Name Box -> Sev-B. In Grace Period -> 4. From the Schedule drop down menu -> select 24/7.
+-  For Sev-B: 4 hours/24-7. In Name Box -> Sev-B. In Grace Period -> 4. From the Schedule drop down menu -> select 24/7.
 
-<p>
-<img src="https://i.imgur.com/88j7ZIs.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/88j7ZIs.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- For Sev-C: 8hours/M-F 8a-5p, with holidays In Name Box -> Sev-C. In Grace Period -> 8. From the Schedule drop down menu -> select M-F/8a-5p, with holidays.
+-  For Sev-C: 8hours/M-F 8a-5p, with holidays In Name Box -> Sev-C. In Grace Period -> 8. From the Schedule drop down menu -> select M-F/8a-5p, with holidays.
 
-<p>
-<img src="https://i.imgur.com/E15QudZ.png" title="source: imgur.com" /></a> 
-</p>
+    <p>
+    <img src="https://i.imgur.com/E15QudZ.png" title="source: imgur.com" /></a> 
+    </p>
 <br />
 
-- Now your SLAs are in the Directory:
+-  Now your SLAs are in the Directory:
 
-<p>
-<img src="https://i.imgur.com/96BTUYj.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/96BTUYj.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 8: For your last step, you need to configure Help Topics. You should add four common categories: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. Again confirm you are in Admin Panel -> Manage -> Help Topics.</b>
+<h3>Step 8: For your last step, Configure Help Topics. Add four common categories: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.</h3> 
 
-- First, add Business Critical Outage. Fill in the name, <b>**then Add/Create Topic.**</b>
+-  Again confirm you are in Admin Panel -> Manage -> Help Topics.</b>
 
-<p>
-<img src="https://i.imgur.com/oXHKev1.png" title="source: imgur.com" /></a>
-</p>
+-   First, add Business Critical Outage. Fill in the name, <b>**then Add/Create Topic.**</b>
+
+    <p>
+    <img src="https://i.imgur.com/oXHKev1.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Second, add Personal Computer Issues. Fill in the name, <b>**then Add/Create Topic.**</b>
+-  Second, add Personal Computer Issues. Fill in the name, <b>**then Add/Create Topic.**</b>
 
-<p>
-<img src="https://i.imgur.com/uxZgY96.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/uxZgY96.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Third, add Equipment Reset.  Fill in the name, <b>**then Add/Create Topic.**</b>
+-  Third, add Equipment Reset.  Fill in the name, <b>**then Add/Create Topic.**</b>
 
-<p>
-<img src="https://i.imgur.com/9nzdNOC.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/9nzdNOC.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Last, add Password reset. Fill in the name, <b>**then Add/Create Topic.**</b>
+-  Last, add Password reset. Fill in the name, <b>**then Add/Create Topic.**</b>
 
-<p>
-<img src="https://i.imgur.com/mZ8bX6M.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/mZ8bX6M.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Your Help Topics are now populated.
+-  Your Help Topics are now populated.
 
-<p>
-<img src="https://i.imgur.com/rjF6cEd.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/rjF6cEd.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Congrats! You have completed the intial Post-Installation Configuration.</b>
+<h3>Congrats! You have completed the intial Post-Installation Configuration!</h3>
