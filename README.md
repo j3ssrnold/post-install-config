@@ -39,94 +39,120 @@ End Users: http://localhost/osTicket/</b>
 
 <h2>Configuration Steps</h2>
 
-<b>Step 1: Let’s get started! First, log in to osTicket using the username and password you set up earlier. Once you’re in, you’ll see the Admin Panel option at the top right of your home screen. Click on Admin, and you will be ready to begin post-installation configuration.</b>
+<h3>Step 1: To begin log in to osTicket using the username and password you set up in the previous tutorial.</h3> 
 
-<p>
-<img src="https://i.imgur.com/0IEg0Th.png" title="source: imgur.com" /></a>
-</p>
+-  Notice the Admin Panel option at the top right of your home screen. Click on Adminand you will be ready to begin post-installation configuration.
+
+    <p>
+    <img src="https://i.imgur.com/0IEg0Th.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 2: Now that you are in the Admin Panel you can set up roles for your agents. You will start from the Admin Panel -> Click agents -> Click Roles. In the name field type in Supreme Admin for a bit fun to assign an agent with Admistrator access.</b>
+<h3>Step 2: Configure Agent Roles.</h3>
 
-<p>
-<img src="https://i.imgur.com/tfyG1CT.png" title="source: imgur.com" /></a>
-</p>
+-  Admin Panel --> Click agents --> Click Roles.
+    -  In the name field type in Supreme Admin for a bit fun to assign an agent with Administrator access.
+
+    <p>
+    <img src="https://i.imgur.com/tfyG1CT.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
 - Next click on the Permissions tab and allow all permissions for Supreme Admin. Then Click Add Role.
 
-<p>
-<img src="https://i.imgur.com/GGcz2HJ.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/GGcz2HJ.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- ***Note: Be sure that permissions for Tasks and Knowledgebases are selected as well and save changes.***
+  >[!Note]
+  >Be sure that permissions for Tasks and Knowledgebases are selected as well.
 
-<p>
-<img src="https://i.imgur.com/9k5PsEp.png" title="source: imgur.com" /></a>
-</p>
+-  Save Changes
+
+      <p>
+      <img src="https://i.imgur.com/9k5PsEp.png" title="source: imgur.com" /></a>
+      </p>
 <br />
 
-- Your Supreme Admin is added to the roster: 
+- Your Supreme Admin is now added to the roster. It should look like this below: 
 
-<p>
-<img src="https://i.imgur.com/thwzzqb.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/thwzzqb.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 3: Next you can configure the Departments. Stay in the Admin Panel -> Click Agents --> Click Departments. In the name box type in System Administrators. Leave the other settings as default for now. ***<b>You may want to go back later and edit the SLA in the System Administrator Department once those parameters are established.</b>***</b>
+<h3>Step 3: Configure Departments.</h3> 
 
-<p>
-<img src="https://images2.imgbox.com/c2/eb/gtRt5YOY_o.png" alt="image host"/></a>
-</p>
+-  Stay in the Admin Panel --> Click Agents --> Click Departments.
+    -  In the name box type in System Administrators --> Leave the other settings as default for now. 
+
+    <p>
+    <img src="https://images2.imgbox.com/c2/eb/gtRt5YOY_o.png" alt="image host"/></a>
+    </p>
+
+>[!TIP]
+>You may want to go back later and edit the SLA in the System Admin Departmnet once those parameters are established.
 <br />
 
-- At the bottom click create department.
+-  At the bottom click create department.
 
-<p>
-<img src="https://i.imgur.com/2DEKqSw.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/2DEKqSw.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- You have now established a department for System Administrator.
+-  You have now established a department for System Administrator.
 
-<p>
-<img src="https://i.imgur.com/nR1lUjo.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/nR1lUjo.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 4: Next you should set up teams. This let's you group agents from different departments to troubleshoot/resolve issues with  tickets/users. Since Level I is already a default, create Level II support. Admin Panel -> Agents -> Teams -> Add New Team. Name it Level II Support -> Create Team.</b>
+<h3>Step 4: Configure teams.</h3> 
 
-<p>
-<img src="https://i.imgur.com/w94ngKZ.png" title="source: imgur.com" /></a>
-</p>
+-  This let's you group agents from different departments to troubleshoot/resolve issues with tickets/users. Since Level I is already a default, create Level II support.
+    -  Admin Panel -> Agents -> Teams -> Add New Team. Name it Level II Support -> Create Team.</b>
+
+    <p>
+    <img src="https://i.imgur.com/w94ngKZ.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- You can now view Level II Support in Teams.
-<p>
-<img src="https://i.imgur.com/bpf1vtS.png" title="source: imgur.com" /></a>
-</p>
+-  You can now view Level II Support in Teams.
+
+    <p>
+    <img src="https://i.imgur.com/bpf1vtS.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 5: Ticket Population: Allow anyone to create a ticket. Stay in Admin Panel -> Settings -> User Settings. Go down to Registration Required and be sure that the check box is unchecked.</b>
+<h3>Step 5: Ticket Population: Allow anyone to create a ticket.</h3> 
 
-<p>
-<img src="https://images2.imgbox.com/a8/26/fejBDhnO_o.png" alt="image host"/></a>
-</p>
+-  Stay in Admin Panel -> Settings -> User Settings. Go down to Registration Required and be sure that the check box is unchecked.</b>
+
+    <p>
+    <img src="https://images2.imgbox.com/a8/26/fejBDhnO_o.png" alt="image host"/></a>
+    </p>
+
+>[!IMPORTANT]
+>Make sure to complete this step. If not, you will not be allowed to log in as a guest; making you register the "users" you create in a few steps
 <br />
 
-<b>Step 6: Now you need to create Agents, Jane and Marhsall. In the top right make sure you click on Agent Panel -> Users -> Add New. Go ahead and add Jane. Fill in name, email, then username for Jane.</b>
 
-<p>
-<img src="https://i.imgur.com/MjGxxWP.png" title="source: imgur.com" /></a>
-</p>
+<h3>Step 6: Now you need to create Agents, Jane and Marhsall.</h3> 
+
+-  At the top right make sure you click on Agent Panel --> Users --> Add New. --> Fill in name, email, then username for Jane.</b>
+
+    <p>
+    <img src="https://i.imgur.com/MjGxxWP.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Set Password. Uncheck Send the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
+-  Set Password. Uncheck Send the agent a password reset email. Enter and confirm password. Make sure both boxes are unchecked then click set.
 
-<p>
-<img src="https://i.imgur.com/SwJ2Rdz.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/SwJ2Rdz.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
 - For Jane's access level, you should make Jane your Supreme Admin. Click Access -> Primary Department -> Support -> Supreme Admin. Extended Access -> System Adminstrators -> Supreme Admin -> Add. ***Make sure Alerts box is checked.***
