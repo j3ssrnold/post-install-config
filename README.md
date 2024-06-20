@@ -41,7 +41,7 @@ End Users: http://localhost/osTicket/</b>
 
 <h3>Step 1: To begin log in to osTicket using the username and password you set up in the previous tutorial.</h3> 
 
--  Notice the Admin Panel option at the top right of your home screen. Click on Adminand you will be ready to begin post-installation configuration.
+-  Notice the Admin Panel option at the top right of your home screen. Click on Admin and you will be ready to begin post-installation configuration.
 
     <p>
     <img src="https://i.imgur.com/0IEg0Th.png" title="source: imgur.com" /></a>
@@ -112,7 +112,7 @@ End Users: http://localhost/osTicket/</b>
 <h3>Step 4: Configure teams.</h3> 
 
 -  This let's you group agents from different departments to troubleshoot/resolve issues with tickets/users. Since Level I is already a default, create Level II support.
-    -  Admin Panel -> Agents -> Teams -> Add New Team. Name it Level II Support -> Create Team.</b>
+    -  Admin Panel --> Agents --> Teams --> Add New Team. Name it Level II Support --> Create Team.</b>
 
     <p>
     <img src="https://i.imgur.com/w94ngKZ.png" title="source: imgur.com" /></a>
@@ -135,7 +135,7 @@ End Users: http://localhost/osTicket/</b>
     </p>
 
 >[!IMPORTANT]
->Make sure to complete this step. If not, you will not be allowed to log in as a guest; making you register the "users" you create in a few steps
+>Make sure to complete this step. If not, you will not be allowed to log in as a guest; making you register the "users" you create in a few steps. This will save some future troubleshooting steps in the [Ticket Lifecyle](https://github.com/j3ssrnold/ticket-lifecycle) tutorial.
 <br />
 
 
@@ -193,7 +193,7 @@ End Users: http://localhost/osTicket/</b>
     </p>
 <br />
 
--  For Marhsall's access level: Click Access -> Primary Department -> Support -> Extended Access
+-  For Marhsall's access level: Click Access --> Primary Department --> Support --> Extended Access
 
     <p>
     <img src="https://i.imgur.com/GdmJSGF.png" title="source: imgur.com" /></a>
@@ -213,8 +213,7 @@ End Users: http://localhost/osTicket/</b>
 <h3>Step 6: Next you need to Configure End Users.</h3>
 
 -  Go to Agent Panel -> Users -> Add New. --> For the purposes of this tutorial you will just fill out name and email. --> Click Add user.
-
--  Account Details should look like this: 
+    -  Account Details should look like this: 
 
     <p>
     <img src="https://i.imgur.com/wYdRzxV.png" title="source: imgur.com" /></a>
@@ -249,21 +248,21 @@ End Users: http://localhost/osTicket/</b>
 
 -  You need to set SLAs at Sev-A, B, and C. Revert to Admin Panel (top right) -> Manage -> SLA.</b>
 
--  For Sev-A: 1 hour/24-7. In Name Box -> Sev-A. In Grace Period -> 1. From the Schedule drop down menu -> select 24/7.
+-  For Sev-A: 1 hour/24-7. In Name Box --> Sev-A. In Grace Period --> 1. From the Schedule drop down menu --> select 24/7.
 
     <p>
     <img src="https://i.imgur.com/lje1ZuW.png" title="source: imgur.com" /></a>
     </p>
 <br />
 
--  For Sev-B: 4 hours/24-7. In Name Box -> Sev-B. In Grace Period -> 4. From the Schedule drop down menu -> select 24/7.
+-  For Sev-B: 4 hours/24-7. In Name Box --> Sev-B. In Grace Period --> 4. From the Schedule drop down menu --> select 24/7.
 
     <p>
     <img src="https://i.imgur.com/88j7ZIs.png" title="source: imgur.com" /></a>
     </p>
 <br />
 
--  For Sev-C: 8hours/M-F 8a-5p, with holidays In Name Box -> Sev-C. In Grace Period -> 8. From the Schedule drop down menu -> select M-F/8a-5p, with holidays.
+-  For Sev-C: 8hours/M-F 8a-5p, with holidays In Name Box --> Sev-C. In Grace Period --> 8. From the Schedule drop down menu --> select M-F/8a-5p, with holidays.
 
     <p>
     <img src="https://i.imgur.com/E15QudZ.png" title="source: imgur.com" /></a> 
@@ -272,14 +271,14 @@ End Users: http://localhost/osTicket/</b>
 
 -  Now your SLAs are in the Directory:
 
-    <p>
-    <img src="https://i.imgur.com/96BTUYj.png" title="source: imgur.com" /></a>
-    </p>
+  <p>
+  <img src="https://i.imgur.com/96BTUYj.png" title="source: imgur.com" /></a>
+  </p>
 <br />
 
 <h3>Step 8: For your last step, Configure Help Topics. Add four common categories: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.</h3> 
 
--  Again confirm you are in Admin Panel -> Manage -> Help Topics.</b>
+-  Again confirm you are in Admin Panel --> Manage --> Help Topics.</b>
 
 -   First, add Business Critical Outage. Fill in the name, <b>**then Add/Create Topic.**</b>
 
@@ -302,7 +301,7 @@ End Users: http://localhost/osTicket/</b>
     </p>
 <br />
 
--  Last, add Password reset. Fill in the name, <b>**then Add/Create Topic.**</b>
+-  Last, add Password reset. Fill in the name, **then Add/Create Topic.**
 
     <p>
     <img src="https://i.imgur.com/mZ8bX6M.png" title="source: imgur.com" /></a>
